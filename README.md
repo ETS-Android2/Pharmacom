@@ -8,7 +8,9 @@ Bien évidemment, L'application procura en plus des informations sur les pharmac
 localisations, le type, le prix des médicaments et si ces derniers sont remboursables par la 
 mutuelle des clients ou non. Voire même une liste de pharmacie de garde.
 
-Périmètre du projet : • Cette application est visualisée en langue française. 
+Périmètre du projet : 
+
+• Cette application est visualisée en langue française. 
 
 • Elle est compatible avec Android. Elle est de type natif. 
 
